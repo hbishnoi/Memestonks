@@ -1,0 +1,26 @@
+.logo{
+    width: 250px
+}
+.description{
+    color: black
+}
+
+a{
+    color: black;
+}
+
+a:hover{
+    color: rgb(102, 179, 58)
+}
+ul li{
+    font-size:15px;
+    list-style-type:none
+}
+.title{
+    margin-left: 30px;
+}
+.whatis{
+    padding-top:5px;
+    padding-left:100px;
+    padding-right:100px
+}

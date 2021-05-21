@@ -1,0 +1,15 @@
+.no-bullets {
+  list-style-type: none;
+  flex: auto;
+  display: inline-block;
+  text-align:left;
+}
+.container{
+  width:100%;
+  display: flex;
+  justify-content: center;
+  border: 3px solid black;
+}
+h1 {
+  text-align:center;
+}
